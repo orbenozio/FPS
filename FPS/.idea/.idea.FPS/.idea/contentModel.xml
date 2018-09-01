@@ -5,6 +5,8 @@
     <e p="D:\Projects\Unity Projects\Tutorials\CatLikeCoding\FPS\FPS" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="FPSCounter.cs" t="Include" />
+        <e p="FPSDisplay.cs" t="Include" />
         <e p="Nucleon.cs" t="Include" />
         <e p="NucleonSpawner.cs" t="Include" />
       </e>
